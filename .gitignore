@@ -6,6 +6,7 @@ build# See https://help.github.com/articles/ignoring-files/ for more about ignor
 
 # dependencies
 /front-end/node_modules
+/back-end/vendor
 /.pnp
 .pnp.js
 
